@@ -1,4 +1,3 @@
-from pprint import PrettyPrinter
 from dydx3 import Client, DydxApiError
 from web3 import Web3
 from constants import (
